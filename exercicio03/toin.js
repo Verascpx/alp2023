@@ -89,3 +89,5 @@ multi = num1*num2
 div = num1/num2
 
 alert(`Soma = ${soma.toFixed(2)}\n Subtração = ${sub.toFixed(2)}\n Multiplicação = ${multi.toFixed(2)}\n Divisão = ${div.toFixed(2)}`)
+
+
