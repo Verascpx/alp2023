@@ -1,0 +1,38 @@
+.fo{
+    background-color: rgb(195, 192, 110);
+    border: 18px solid red;
+    margin-bottom: 25px;
+    font-family: Arial;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+
+}
+.aim{
+    background-color:  #FFCC99;
+    border: 30px solid rgb(0, 0, 140);
+    margin-bottom: 30px;
+    font-family: Arial;
+    margin-left: 30%;
+    margin-right: 30%; 
+}
+.para{
+    background-color:#FFFF99;
+    border: 15px solid #FF0084;
+    margin-bottom: 30px;
+    font-family: verdana;
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 180px;
+    font-size: 145%;
+}
+.todo{
+    background-color: #8ae2ff;
+    border: 5px solid blue;
+    margin-bottom: 30px;
+    font-family: verdana;
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 140px;
+    font-size: 135%;
+}
